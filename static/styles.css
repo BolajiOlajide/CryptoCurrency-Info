@@ -1,5 +1,10 @@
 h1 {
   margin-bottom: 1.5rem !important;
+  color: white !important;
+}
+
+body, html {
+  background: black !important;
 }
 
 .center-item {
@@ -12,7 +17,7 @@ h1 {
 
 .card {
   margin: 0.2rem !important;
-
+  background-color: beige !important;
 }
 
 .col-sm-4 {
