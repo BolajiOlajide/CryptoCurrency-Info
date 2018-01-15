@@ -1,0 +1,21 @@
+h1 {
+  margin-bottom: 1.5rem !important;
+}
+
+.center-item {
+  justify-content: center;
+}
+
+.card-footer {
+  margin-bottom: 0.7rem !important;
+}
+
+.card {
+  margin: 0.2rem !important;
+
+}
+
+.col-sm-4 {
+  max-width: 29.333333% !important;
+  padding: 0.7rem;
+}
